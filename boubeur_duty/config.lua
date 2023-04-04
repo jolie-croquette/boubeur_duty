@@ -1,3 +1,4 @@
+Config = {}
 ---- config duty
 
 Config.AutoStock = false -- (uniquement gratuit si coût = 0)
