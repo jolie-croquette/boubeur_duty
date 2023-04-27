@@ -1,14 +1,14 @@
-fx_version 'cerulean'
-games { 'rdr3', 'gta5' }
+fx_version  ' céruléen '
+jeux { ' rdr3 ' , ' gta5 ' }
 
-author 'boubeur'
-description 'Duty Ressource'
-version '1.0.0'
+auteur  ' boubeur '
+description  ' Ressource de service '
+version  ' 1.0.0 '
 
-client_scripts {
-    'client.lua',
+script_client {
+    ' client.lua ' ,
 }
 
-server_script {
-    'server.lua'
+script_serveur {
+    ' serveur.lua '
 }
